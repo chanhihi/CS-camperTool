@@ -1,0 +1,12 @@
+D:\GitHub\Tools\CamperTool\200608_CamperTool\tpmsTool_1_test\bin\Debug\tpmsTool_1_test.exe.config
+D:\GitHub\Tools\CamperTool\200608_CamperTool\tpmsTool_1_test\bin\Debug\tpmsTool_1_test.exe
+D:\GitHub\Tools\CamperTool\200608_CamperTool\tpmsTool_1_test\bin\Debug\tpmsTool_1_test.pdb
+D:\GitHub\Tools\CamperTool\200608_CamperTool\tpmsTool_1_test\obj\Debug\camperTool_2_test.csprojAssemblyReference.cache
+D:\GitHub\Tools\CamperTool\200608_CamperTool\tpmsTool_1_test\obj\Debug\camperTool_2_test.csproj.ResolveComReference.cache
+D:\GitHub\Tools\CamperTool\200608_CamperTool\tpmsTool_1_test\obj\Debug\camperTool_TEST.ResultForm.resources
+D:\GitHub\Tools\CamperTool\200608_CamperTool\tpmsTool_1_test\obj\Debug\camperTool_TEST.camperTest.resources
+D:\GitHub\Tools\CamperTool\200608_CamperTool\tpmsTool_1_test\obj\Debug\tpmsTool_1_test.Properties.Resources.resources
+D:\GitHub\Tools\CamperTool\200608_CamperTool\tpmsTool_1_test\obj\Debug\camperTool_2_test.csproj.GenerateResource.cache
+D:\GitHub\Tools\CamperTool\200608_CamperTool\tpmsTool_1_test\obj\Debug\camperTool_2_test.csproj.CoreCompileInputs.cache
+D:\GitHub\Tools\CamperTool\200608_CamperTool\tpmsTool_1_test\obj\Debug\tpmsTool_1_test.exe
+D:\GitHub\Tools\CamperTool\200608_CamperTool\tpmsTool_1_test\obj\Debug\tpmsTool_1_test.pdb
